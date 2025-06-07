@@ -12,8 +12,8 @@ Click the gif to see source codes.
 
 ## usage
 
-See <a href="doc.pdf">
+See <a href="docs/manual.pdf">
      pdf manual
-    </a>, or compile doc from the <a href="doc.typ">
+    </a>, or compile doc from the <a href="docs/manual.typ">
      source code
     </a>.

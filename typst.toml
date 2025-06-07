@@ -9,4 +9,4 @@ authors = ["wedipe"]
 categories = [ "visualization" ]
 keywords = ["yinsh", "draw", "notation", "records"]
 license = "MIT"  
-exclude = ["gallery", "doc.pdf", "doc.typ"]           
+exclude = ["gallery/", "docs/"]           
